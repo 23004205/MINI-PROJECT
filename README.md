@@ -61,7 +61,7 @@ Ayrshire Cattle
 <img width="904" height="562" alt="image" src="https://github.com/user-attachments/assets/caecd46f-bb0c-4a83-a4f4-17c89502afe8" />
 
 
-# 🛠️ Technologies Used
+#  🛠️ Technologies Used
 
 Programming Language: Python
 
@@ -87,9 +87,10 @@ Git
 Visual Studio Code (or any IDE)
 
 Python Libraries
+```
 pip install torch torchvision numpy matplotlib seaborn scikit-learn flask pillow tqdm
-
-🚀 How to Run the Project
+```
+#  🚀 How to Run the Project
 
 1️⃣ Create Dataset Structure
 ```
@@ -116,6 +117,10 @@ python app.py
 Open browser:
 
 http://127.0.0.1:5000
+
+# system Architecture
+
+<img width="723" height="475" alt="image" src="https://github.com/user-attachments/assets/2e7b4750-ba0f-4578-a288-b891b61c0a90" />
 
 # output
 ```
